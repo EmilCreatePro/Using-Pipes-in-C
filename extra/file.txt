@@ -1,0 +1,7 @@
+This is a text with rows
+Some rows contain numbers like 1 or no
+If the rows contain a number like this: 4
+Then send it to child
+Otherwise just pass over 1 line and
+Send SIGHCHLD only 1 time
+Have a nice day!
